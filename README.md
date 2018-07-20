@@ -11,7 +11,7 @@ Other awesome lists,
 * [`Useful Wordpress Plugins`](https://github.com/aravindnc/A-to-Z-List-of-Useful-Wordpress-Plugins)
 
 ## Packages for development
-List of packages needed for development.
+List of packages needed for NodeJS development.
 
 ### Frameworks
 #### API Framework
